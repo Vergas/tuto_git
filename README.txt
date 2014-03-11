@@ -1,6 +1,8 @@
 README !!!
 
-j'ai changé le passé
+j'ai changï¿½ le passï¿½
 ceci est un fichier readme
 
 hello world
+
+modif sur github
